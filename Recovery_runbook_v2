@@ -1,0 +1,49 @@
+ICT SECURITY OPERATIONS ASSISTANT PORTFOLIO
+Applicant: NKANYISO NENE | 0814954618
+Date Submitted: 25 June 2026
+
+1. STANDARDS ALIGNMENT
+
+All templates aligned to:
+1. ISO 27001:2022 - Information Security Management
+2. NIST Cybersecurity Framework 2.0 - Identify, Protect, Detect, Respond, Recover  
+3. COBIT 2019 - IT Governance
+
+Templates are ready-to-use and can be migrated to company SharePoint/ECMS within 30 days.
+
+2. DOCUMENT INDEX + HOW TO READ
+
+Files numbered for recruitment panel review order.
+
+| File Name | Duty Mapped | What Panel Should Look For |
+|-----------|-------------|----------------------------|
+| 0_Portfolio_Cover.pdf | N/A | Applicant details + commitment statement |
+| 1_Tools_Monitoring_Dashboard.pdf | Duty 1 | Daily ops + KPI tracking for security tools |
+| 2_Recovery_Runbook_ExportSystem.pdf | Duty 2 | Step-by-step DR restore with RTO/RPO |
+| 3A_DR_Test_Plan_Jun2026.pdf | Duty 3 | DR test planning + roles + success criteria |
+| 3B_Remedial_Action_Log.pdf | Duty 3 | Gap tracking from DR test to closure |
+| 4A_Policy_Review_Checklist.pdf | Duty 4 | ISO 27001 A.5.3 annual review evidence |
+| 4B_Policy_Version_Register.pdf | Duty 4 | Version control + next review dates |
+| 5A_IR_RACI_Matrix.pdf | Duty 5 | Clear roles: RACI per NIST Respond phase |
+| 5B_Incident_Playbook_Phishing.pdf | Duty 5 | Contain-Eradicate-Recover <2hr workflow |
+| 6_Compliance_Mapping_COIT_NIST_ISO.pdf | Duty 6-8 | 1 control = 3 frameworks. Audit efficiency |
+
+3. KEY STRENGTHS DEMONSTRATED
+
+1. Business Impact: ECMS RTO 4hr because export certificates = SA trade
+2. Audit Evidence: Remedial Log + Policy Register = ISO 27001 ready
+3. Speed: Phishing playbook targets containment <2 hours
+4. Governance: Single control mapped to COBIT+NIST+ISO reduces audit load
+5. Communication: All runbooks include user notification steps
+
+4. COMMITMENT
+
+If appointed, I will:
+1. Migrate all templates to PPECB SharePoint with version control
+2. Customize ECMS runbook with actual PPECB servers + contacts
+3. Populate Dashboard with PPECB tool names + KPIs
+4. Train staff on incident reporting per playbook Step 1
+
+CONFIDENTIAL - For Recruitment Only. All data is sample/mock data.
+
+Signature: _________________   Date: __________
